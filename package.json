@@ -1,0 +1,19 @@
+{
+  "name": "currency-converter-mshsheikh",
+  "version": "2.0.0",
+  "description": "It's a simple command line currency converter.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Salman Hussain (mshsheikh)",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
