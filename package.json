@@ -1,7 +1,7 @@
 {
-  "name": "currency-converter-mshsheikh",
-  "version": "2.0.0",
-  "description": "It's a simple command line currency converter.",
+  "name": "cc-mshsheikh",
+  "version": "1.0.0",
+  "description": "It's a simple CLI based currency converter.",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
